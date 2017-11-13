@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FeedbackApp.iml" filepath="$PROJECT_DIR$/FeedbackApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FeedbackApp.iml" filepath="$PROJECT_DIR$/.idea/FeedbackApp.iml" />
+      <module fileurl="file://C:\Users\User\Desktop\FeedbackApp\FeedbackApp.iml" filepath="C:\Users\User\Desktop\FeedbackApp\FeedbackApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\User\Desktop\FeedbackApp\app\app.iml" filepath="C:\Users\User\Desktop\FeedbackApp\app\app.iml" />
     </modules>
   </component>
 </project>
